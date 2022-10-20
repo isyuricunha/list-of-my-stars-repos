@@ -1,6 +1,6 @@
 # isyuricunha's Stars [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> :star: generated with [isyuricunha/list-of-repos](https://github.com/isyuricunha/list-of-repos)
+> :star: generated with [isyuricunha/ist-of-my-starts-repos](https://github.com/isyuricunha/ist-of-my-starts-repos)
 
 ## Table of Contents
 
@@ -58,7 +58,7 @@
 
 ## JavaScript
 
-*   [isyuricunha/list-of-repos](https://github.com/isyuricunha/list-of-repos) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+*   [isyuricunha/ist-of-my-starts-repos](https://github.com/isyuricunha/ist-of-my-starts-repos) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
