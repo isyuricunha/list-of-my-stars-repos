@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Awesome generator
-        uses: isyuricunha/ist-of-my-starts-repos@v2
+        uses: isyuricunha/list-of-my-stars-repos@v2
         with:
           template-path: "template/README.ejs"
           api-token: ${{ secrets.API_TOKEN }}
