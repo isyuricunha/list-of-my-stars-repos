@@ -1,4 +1,4 @@
-name: Update awesome list
+name: Update starred list
 
 on: 
   workflow_dispatch:
