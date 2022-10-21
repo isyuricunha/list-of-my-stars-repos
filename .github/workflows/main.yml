@@ -1,4 +1,4 @@
-name: Update starred list
+name: Update awesome list
 
 on: 
   workflow_dispatch:
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Awesome generator
-        uses: isyuricunha/list-of-my-stars-repos@v2
+        uses: simonecorsi/mawesome@v2
         with:
           template-path: "template/README.ejs"
           api-token: ${{ secrets.API_TOKEN }}
