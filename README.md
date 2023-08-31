@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [C#](#c)
 *   [Ruby](#ruby)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -12,7 +13,6 @@
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [Java](#java)
-*   [C#](#c)
 *   [HTML](#html)
 *   [C](#c-1)
 *   [Haskell](#haskell)
@@ -31,6 +31,23 @@
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
 *   [TSQL](#tsql)
+
+## C\#
+
+*   [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
+*   [nefarius/ScpToolkit](https://github.com/nefarius/ScpToolkit) - Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers
+*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
+*   [samuel-lucas6/Kryptor](https://github.com/samuel-lucas6/Kryptor) - A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign.
+*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+*   [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
+*   [CombatExtended-Continued/CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
+*   [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
+*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
+*   [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
+*   [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+*   [thekid/inotify-win](https://github.com/thekid/inotify-win) - A port of the inotify-wait tool for Windows
+*   [fan130/mssql-ssis-community-samples](https://github.com/fan130/mssql-ssis-community-samples) -
 
 ## Ruby
 
@@ -81,8 +98,6 @@
 *   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
 *   [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎 A curated list of awesome project development links
 *   [he4rt/4noobs](https://github.com/he4rt/4noobs) - Repositório listando 4noobs de todas as categorias e funcionalidades possíveis.
-*   [Carol42/Carol42](https://github.com/Carol42/Carol42) - :octocat: Config files for my GitHub profile!
-*   [DevelopersTree/awesome-kurds](https://github.com/DevelopersTree/awesome-kurds) - A curated list of awesome Kurds.
 
 ## Meson
 
@@ -220,21 +235,6 @@
 *   [DraSouls/Necesse-MultiTools](https://github.com/DraSouls/Necesse-MultiTools) - Adds the Planner and tiered Pivelaxes to aid in building and mining.
 *   [dianchia/DefenseTower](https://github.com/dianchia/DefenseTower) - A few type of defense tower for Necesse
 *   [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-
-## C\#
-
-*   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
-*   [samuel-lucas6/Kryptor](https://github.com/samuel-lucas6/Kryptor) - A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign.
-*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-*   [coofcookie/Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - Windows 11 Upgrade tool that bypasses Microsoft´s requirements
-*   [CombatExtended-Continued/CombatExtended](https://github.com/CombatExtended-Continued/CombatExtended) - Combat Extended mod for RimWorld
-*   [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
-*   [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
-*   [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
-*   [5cover/WinClean](https://github.com/5cover/WinClean) - Windows optimization and debloating utility.
-*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
-*   [thekid/inotify-win](https://github.com/thekid/inotify-win) - A port of the inotify-wait tool for Windows
-*   [fan130/mssql-ssis-community-samples](https://github.com/fan130/mssql-ssis-community-samples) -
 
 ## HTML
 
