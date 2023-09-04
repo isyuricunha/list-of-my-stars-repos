@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [Adblock Filter List](#adblock-filter-list)
 *   [C#](#c)
 *   [Ruby](#ruby)
 *   [Python](#python)
@@ -31,6 +32,10 @@
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
 *   [TSQL](#tsql)
+
+## Adblock Filter List
+
+*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
 
 ## C\#
 
@@ -97,7 +102,6 @@
 *   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 *   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
 *   [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎 A curated list of awesome project development links
-*   [he4rt/4noobs](https://github.com/he4rt/4noobs) - Repositório listando 4noobs de todas as categorias e funcionalidades possíveis.
 
 ## Meson
 
