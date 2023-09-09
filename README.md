@@ -1,7 +1,8 @@
 ## Table of Contents
 
+*   [C++](#c)
 *   [Adblock Filter List](#adblock-filter-list)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Ruby](#ruby)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
@@ -15,9 +16,8 @@
 *   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [HTML](#html)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Haskell](#haskell)
-*   [C++](#c-2)
 *   [Batchfile](#batchfile)
 *   [Lua](#lua)
 *   [Svelte](#svelte)
@@ -32,6 +32,12 @@
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
 *   [TSQL](#tsql)
+
+## C++
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
 
 ## Adblock Filter List
 
@@ -140,7 +146,6 @@
 *   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 *   [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
 *   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-*   [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
 
 ## JavaScript
 
@@ -258,11 +263,6 @@
 ## Haskell
 
 *   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-
-## C++
-
-*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
 
 ## Batchfile
 
