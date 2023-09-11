@@ -1,5 +1,6 @@
 ## Table of Contents
 
+*   [Java](#java)
 *   [C++](#c)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [C#](#c-1)
@@ -14,7 +15,6 @@
 *   [Astro](#astro)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
-*   [Java](#java)
 *   [HTML](#html)
 *   [C](#c-2)
 *   [Haskell](#haskell)
@@ -32,6 +32,15 @@
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
 *   [TSQL](#tsql)
+
+## Java
+
+*   [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
+*   [DraSouls/Necesse-MultiTools](https://github.com/DraSouls/Necesse-MultiTools) - Adds the Planner and tiered Pivelaxes to aid in building and mining.
+*   [dianchia/DefenseTower](https://github.com/dianchia/DefenseTower) - A few type of defense tower for Necesse
+*   [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 
 ## C++
 
@@ -237,14 +246,6 @@
 
 *   [moezbhatti/qksms](https://github.com/moezbhatti/qksms) - The most beautiful SMS messenger for Android
 
-## Java
-
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-*   [DraSouls/Necesse-MultiTools](https://github.com/DraSouls/Necesse-MultiTools) - Adds the Planner and tiered Pivelaxes to aid in building and mining.
-*   [dianchia/DefenseTower](https://github.com/dianchia/DefenseTower) - A few type of defense tower for Necesse
-*   [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-
 ## HTML
 
 *   [nefarius/BthPS3](https://github.com/nefarius/BthPS3) - Windows kernel-mode Bluetooth Profile & Filter Drivers for PS3 peripherals
@@ -310,7 +311,6 @@
 
 *   [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 *   [webismymind/editablegrid-mysql-example](https://github.com/webismymind/editablegrid-mysql-example) - This example shows how to use EditableGrid with a MySQL database
-*   [skyrisk/brazucaplay](https://github.com/skyrisk/brazucaplay) - Brazuca Community - Projeto sem fins lucrativos.
 
 ## PowerShell
 
