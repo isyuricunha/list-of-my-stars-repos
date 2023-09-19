@@ -31,7 +31,6 @@
 *   [PowerShell](#powershell)
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
-*   [TSQL](#tsql)
 
 ## Java
 
@@ -311,6 +310,7 @@
 
 *   [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
 *   [webismymind/editablegrid-mysql-example](https://github.com/webismymind/editablegrid-mysql-example) - This example shows how to use EditableGrid with a MySQL database
+*   [skyrisk/brazucaplay](https://github.com/skyrisk/brazucaplay) - Brazuca Community - Projeto sem fins lucrativos.
 
 ## PowerShell
 
@@ -324,7 +324,3 @@
 ## Swift
 
 *   [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-
-## TSQL
-
-*   [diegoluques/SQL-Server-Exemplos](https://github.com/diegoluques/SQL-Server-Exemplos) - Repositório com exemplos de scripts utilizados conforme a necessidade do dia a dia.
