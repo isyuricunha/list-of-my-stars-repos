@@ -1,14 +1,14 @@
 ## Table of Contents
 
-*   [Java](#java)
-*   [C++](#c)
-*   [Adblock Filter List](#adblock-filter-list)
-*   [C#](#c-1)
-*   [Ruby](#ruby)
+*   [C#](#c)
 *   [Python](#python)
+*   [TypeScript](#typescript)
+*   [Java](#java)
+*   [C++](#c-1)
+*   [Adblock Filter List](#adblock-filter-list)
+*   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [Meson](#meson)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [SCSS](#scss)
 *   [Go](#go)
@@ -32,27 +32,9 @@
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
 
-## Java
-
-*   [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-*   [DraSouls/Necesse-MultiTools](https://github.com/DraSouls/Necesse-MultiTools) - Adds the Planner and tiered Pivelaxes to aid in building and mining.
-*   [dianchia/DefenseTower](https://github.com/dianchia/DefenseTower) - A few type of defense tower for Necesse
-*   [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
-
-## C++
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
-
-## Adblock Filter List
-
-*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
-
 ## C\#
 
+*   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 *   [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 *   [nefarius/ScpToolkit](https://github.com/nefarius/ScpToolkit) - Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers
 *   [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer \[RAPR]
@@ -68,14 +50,11 @@
 *   [thekid/inotify-win](https://github.com/thekid/inotify-win) - A port of the inotify-wait tool for Windows
 *   [fan130/mssql-ssis-community-samples](https://github.com/fan130/mssql-ssis-community-samples) -
 
-## Ruby
-
-*   [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
-*   [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
-
 ## Python
 
+*   [snapfast/AutoMates](https://github.com/snapfast/AutoMates) - I am lazy. I built a script to apply for jobs, swipe on bumble, and whatever comes next.
+*   [Krish-Depani/LinkedIn-Automation](https://github.com/Krish-Depani/LinkedIn-Automation) -
+*   [alexfch/automated-job-search](https://github.com/alexfch/automated-job-search) - Automated jobs search on LinkedIn
 *   [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - 🚀🎬 ShortGPT - Experimental AI framework for automated short/video content creation.
 *   [viniciusccosta/AutoVerseReadme](https://github.com/viniciusccosta/AutoVerseReadme) - Um repositório onde o README é atualizado diáriamente com versos, frases e trechos de músicas previamente selecionados.
 *   [techwithtim/Price-Tracking-Web-Scraper](https://github.com/techwithtim/Price-Tracking-Web-Scraper) - An automated price tracker that uses bright data, playwright, react and flask.
@@ -93,36 +72,9 @@
 *   [Correia-jpv/github-follow-bot](https://github.com/Correia-jpv/github-follow-bot) - 🤖 Automated follow/unfollow bot for GitHub. Follow from multiple sources. Choose which users to unfollow. Custom options to control bot speed and maximum actions.
 *   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
-## miscellaneous
-
-*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-*   [guilhermemm-dev/links](https://github.com/guilhermemm-dev/links) - Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).
-*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
-*   [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
-*   [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-*   [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
-*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-*   [Windows-Dev/Windows11-Bypass](https://github.com/Windows-Dev/Windows11-Bypass) - Windows 11 for Everyone ( Bypass TPM/SoC checks and install win11 safely on your unsupported device)
-*   [notHyperNexus/W11-Bypass](https://github.com/notHyperNexus/W11-Bypass) - This repository allowed you Bypass Windows 11 repuirements!
-*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
-*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
-*   [KwilzOne/wolflauncher](https://github.com/KwilzOne/wolflauncher) -
-*   [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
-*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
-*   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
-*   [gdcmarinho/awesome-project](https://github.com/gdcmarinho/awesome-project) - 📎 A curated list of awesome project development links
-
-## Meson
-
-*   [FyraLabs/skiff-desktop](https://github.com/FyraLabs/skiff-desktop) - Skiff, now on a Linux Desktop near you!
-
 ## TypeScript
 
+*   [felladrin/linkedin-autoconnect-chrome-extension](https://github.com/felladrin/linkedin-autoconnect-chrome-extension) - Chrome extension that automatically clicks all 'Connect' buttons available on LinkedIn 'Search People' and 'People You May Know' pages.
 *   [luphoria/graim](https://github.com/luphoria/graim) - matrix <=> discord moderation with the power of matrix-appservice-discord
 *   [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 *   [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
@@ -153,7 +105,58 @@
 *   [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 *   [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 *   [shiftkey/desktop](https://github.com/shiftkey/desktop) - Fork of GitHub Desktop to support various Linux distributions
-*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+
+## Java
+
+*   [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
+*   [DraSouls/Necesse-MultiTools](https://github.com/DraSouls/Necesse-MultiTools) - Adds the Planner and tiered Pivelaxes to aid in building and mining.
+*   [dianchia/DefenseTower](https://github.com/dianchia/DefenseTower) - A few type of defense tower for Necesse
+*   [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
+
+## C++
+
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
+
+## Adblock Filter List
+
+*   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
+
+## Ruby
+
+*   [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
+*   [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
+*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+
+## miscellaneous
+
+*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+*   [guilhermemm-dev/links](https://github.com/guilhermemm-dev/links) - Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).
+*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
+*   [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
+*   [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+*   [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
+*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+*   [Windows-Dev/Windows11-Bypass](https://github.com/Windows-Dev/Windows11-Bypass) - Windows 11 for Everyone ( Bypass TPM/SoC checks and install win11 safely on your unsupported device)
+*   [notHyperNexus/W11-Bypass](https://github.com/notHyperNexus/W11-Bypass) - This repository allowed you Bypass Windows 11 repuirements!
+*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
+*   [KwilzOne/wolflauncher](https://github.com/KwilzOne/wolflauncher) -
+*   [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
+*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+*   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
+
+## Meson
+
+*   [FyraLabs/skiff-desktop](https://github.com/FyraLabs/skiff-desktop) - Skiff, now on a Linux Desktop near you!
 
 ## JavaScript
 
@@ -203,7 +206,6 @@
 *   [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
 *   [mifi/instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-*   [gnuns/allOrigins](https://github.com/gnuns/allOrigins) - :alien: Pull content from any page as JSON via API
 
 ## SCSS
 
@@ -309,8 +311,6 @@
 ## CSS
 
 *   [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/spicetify-cli
-*   [webismymind/editablegrid-mysql-example](https://github.com/webismymind/editablegrid-mysql-example) - This example shows how to use EditableGrid with a MySQL database
-*   [skyrisk/brazucaplay](https://github.com/skyrisk/brazucaplay) - Brazuca Community - Projeto sem fins lucrativos.
 
 ## PowerShell
 
