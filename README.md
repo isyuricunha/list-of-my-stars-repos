@@ -1,5 +1,7 @@
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [JavaScript](#javascript)
 *   [C#](#c)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -7,9 +9,7 @@
 *   [C++](#c-1)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Ruby](#ruby)
-*   [miscellaneous](#miscellaneous)
 *   [Meson](#meson)
-*   [JavaScript](#javascript)
 *   [SCSS](#scss)
 *   [Go](#go)
 *   [Astro](#astro)
@@ -31,6 +31,80 @@
 *   [PowerShell](#powershell)
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
+
+## miscellaneous
+
+*   [ZiaUrR3hman/LinkedSocialToolkit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit) - With Linked Social Toolkit \[LST] you can like posts & comments, send birthday wishes, work anniversary wishes & new job wishes, send messages to connections, auto respond to messages, connect, remove, follow, view & endorse connections, withdraw & accept invitations, get connections information...
+*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+*   [guilhermemm-dev/links](https://github.com/guilhermemm-dev/links) - Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).
+*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
+*   [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
+*   [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+*   [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
+*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+*   [Windows-Dev/Windows11-Bypass](https://github.com/Windows-Dev/Windows11-Bypass) - Windows 11 for Everyone ( Bypass TPM/SoC checks and install win11 safely on your unsupported device)
+*   [notHyperNexus/W11-Bypass](https://github.com/notHyperNexus/W11-Bypass) - This repository allowed you Bypass Windows 11 repuirements!
+*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
+*   [KwilzOne/wolflauncher](https://github.com/KwilzOne/wolflauncher) -
+*   [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
+*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+*   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
+
+## JavaScript
+
+*   [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
+*   [ayastreb/money-tracker](https://github.com/ayastreb/money-tracker) - :moneybag: Personal finances tracking web app
+*   [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action) - Check your ranking in GitHub
+*   [alura-challenges/aluraquiz-base](https://github.com/alura-challenges/aluraquiz-base) - Projeto construido durante a Imersão React edição NextJS da Alura!
+*   [hoangvvo/nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind.
+*   [SakerDakak/Salonek](https://github.com/SakerDakak/Salonek) - This project is aimed at the Sultanate of Oman and offers the ability to book appointments at women's beauty salons or request hairdressers to come to your home. Additionally, each salon has an online store to sell beauty products
+*   [rambler-digital-solutions/rambler-ui](https://github.com/rambler-digital-solutions/rambler-ui) -  😈 UI library for creating interfaces in Rambler guidelines with React power
+*   [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
+*   [huzzahh/castelvania](https://github.com/huzzahh/castelvania) - Game feito em javascript puro, utilizando firebase para multiplayer
+*   [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
+*   [duckduckgo/tracker-radar-collector](https://github.com/duckduckgo/tracker-radar-collector) - 🕸 Modular, multithreaded, puppeteer-based crawler
+*   [duckduckgo/tracker-radar-detector](https://github.com/duckduckgo/tracker-radar-detector) - Code used to build a Tracker Radar data set from raw crawl data.
+*   [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
+*   [SkyCloudDev/ForumPostDownloader](https://github.com/SkyCloudDev/ForumPostDownloader) - This script allows for downloading of posts and threads from the SimpCity forum
+*   [ryancharris/react-livestream](https://github.com/ryancharris/react-livestream) - Embed your Twitch, Mixer or YouTube stream in your website automatically when you're live
+*   [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons) - 📋 😄 Add icons to your GitHub profile using this generator  😄 📋
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
+*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+*   [somiibo/twitter-bot](https://github.com/somiibo/twitter-bot) - Twitter bot. Automatically follows users and likes, retweets & comments on posts
+*   [diwasatreya/Music-Bot-v2](https://github.com/diwasatreya/Music-Bot-v2) - Music Bot v2 which uses djs v13 & play best quality of music ( supports any url's ) + lavalink & slash command
+*   [cipherwiki/InstaBot](https://github.com/cipherwiki/InstaBot) - Instabot is a type of software or tool that is designed to automate interactions on the social media platform Instagram. One specific function of an Instabot is the ability to auto-comment on posts that use certain hashtags.
+*   [JueK3y/Instagram-automated-commenting](https://github.com/JueK3y/Instagram-automated-commenting) - 〽️ This is an software (build with electron) that automatically comments on Instagram. Read the EULA for more information.
+*   [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
+*   [itsmishra19/discord-music](https://github.com/itsmishra19/discord-music) - An open-source discord music bot written in javascript
+*   [BestGamersH/Multipurpose-Discord-Bot](https://github.com/BestGamersH/Multipurpose-Discord-Bot) - The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More
+*   [lreiner/Whatsapp-Message-Spammer](https://github.com/lreiner/Whatsapp-Message-Spammer) - This Script spams as many Messages as you want in a Chat. Tampermonkey Executable to inject Extensions to Whatsapp Web. Free to use for everyone. 📩
+*   [Geczy/tinder-autopilot](https://github.com/Geczy/tinder-autopilot) - Don't waste any more time doing manual tasks on Tinder. Autopilot will do it for you.
+*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
+*   [andrepolischuk/thomas](https://github.com/andrepolischuk/thomas) - Simple pomodoro timer
+*   [Chase000/TherapyGo-project](https://github.com/Chase000/TherapyGo-project) -
+*   [Samantha2204/TherapyGo-Frontend](https://github.com/Samantha2204/TherapyGo-Frontend) - Frontend repo of a full stack system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointments through the website easily and keep track of their activities from the user platform.
+*   [Samantha2204/TherapyGo-Backend](https://github.com/Samantha2204/TherapyGo-Backend) - Backend repo of a full stack system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointments through the website easily and keep track of their activities from the user platform.
+*   [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+*   [jayremnt/facebook-scripts-dom-manipulation](https://github.com/jayremnt/facebook-scripts-dom-manipulation) - An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.
+*   [Androz2091/discord-giveaways-bot](https://github.com/Androz2091/discord-giveaways-bot) - 🎁Giveways Bot using the discord-giveaways package
+*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+*   [zehfernandes/get-vercel-source-code](https://github.com/zehfernandes/get-vercel-source-code) - Get source code hosted at vercel
+*   [lucasbento/rn-update-deprecated-modules](https://github.com/lucasbento/rn-update-deprecated-modules) - Codemod to update import declarations as per react-native > 0.59.x deprecations.
+*   [codersrank-org/libraries](https://github.com/codersrank-org/libraries) - This repository contains a list of supported libraries, imports and technologies they belong to
+*   [xrkffgg/list-all-followers-and-following](https://github.com/xrkffgg/list-all-followers-and-following) - 😳 Easy view and filter all follows and following. Auto update by GitHub Action.
+*   [lucasbento/auto-close-issues](https://github.com/lucasbento/auto-close-issues) - Automatically close issues that don't follow the issue template.
+*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+*   [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
+*   [mifi/instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
+*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
 ## C\#
 
@@ -113,7 +187,6 @@
 *   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 *   [DraSouls/Necesse-MultiTools](https://github.com/DraSouls/Necesse-MultiTools) - Adds the Planner and tiered Pivelaxes to aid in building and mining.
 *   [dianchia/DefenseTower](https://github.com/dianchia/DefenseTower) - A few type of defense tower for Necesse
-*   [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 
 ## C++
 
@@ -131,81 +204,9 @@
 *   [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
 *   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
-## miscellaneous
-
-*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-*   [guilhermemm-dev/links](https://github.com/guilhermemm-dev/links) - Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).
-*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
-*   [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
-*   [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-*   [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
-*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-*   [Windows-Dev/Windows11-Bypass](https://github.com/Windows-Dev/Windows11-Bypass) - Windows 11 for Everyone ( Bypass TPM/SoC checks and install win11 safely on your unsupported device)
-*   [notHyperNexus/W11-Bypass](https://github.com/notHyperNexus/W11-Bypass) - This repository allowed you Bypass Windows 11 repuirements!
-*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
-*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
-*   [KwilzOne/wolflauncher](https://github.com/KwilzOne/wolflauncher) -
-*   [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
-*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
-*   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
-
 ## Meson
 
 *   [FyraLabs/skiff-desktop](https://github.com/FyraLabs/skiff-desktop) - Skiff, now on a Linux Desktop near you!
-
-## JavaScript
-
-*   [ayastreb/money-tracker](https://github.com/ayastreb/money-tracker) - :moneybag: Personal finances tracking web app
-*   [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action) - Check your ranking in GitHub
-*   [alura-challenges/aluraquiz-base](https://github.com/alura-challenges/aluraquiz-base) - Projeto construido durante a Imersão React edição NextJS da Alura!
-*   [hoangvvo/nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind.
-*   [SakerDakak/Salonek](https://github.com/SakerDakak/Salonek) - This project is aimed at the Sultanate of Oman and offers the ability to book appointments at women's beauty salons or request hairdressers to come to your home. Additionally, each salon has an online store to sell beauty products
-*   [rambler-digital-solutions/rambler-ui](https://github.com/rambler-digital-solutions/rambler-ui) -  😈 UI library for creating interfaces in Rambler guidelines with React power
-*   [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
-*   [huzzahh/castelvania](https://github.com/huzzahh/castelvania) - Game feito em javascript puro, utilizando firebase para multiplayer
-*   [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
-*   [duckduckgo/tracker-radar-collector](https://github.com/duckduckgo/tracker-radar-collector) - 🕸 Modular, multithreaded, puppeteer-based crawler
-*   [duckduckgo/tracker-radar-detector](https://github.com/duckduckgo/tracker-radar-detector) - Code used to build a Tracker Radar data set from raw crawl data.
-*   [fatih-yavuz/links.dev](https://github.com/fatih-yavuz/links.dev) - A free linktree alternative only for devs. Get a nice page at links.dev/username. Simple site to group all your links. Register your username before someone else does.
-*   [SkyCloudDev/ForumPostDownloader](https://github.com/SkyCloudDev/ForumPostDownloader) - This script allows for downloading of posts and threads from the SimpCity forum
-*   [ryancharris/react-livestream](https://github.com/ryancharris/react-livestream) - Embed your Twitch, Mixer or YouTube stream in your website automatically when you're live
-*   [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons) - 📋 😄 Add icons to your GitHub profile using this generator  😄 📋
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-*   [blocklistproject/Lists](https://github.com/blocklistproject/Lists) - Primary Block Lists
-*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-*   [somiibo/twitter-bot](https://github.com/somiibo/twitter-bot) - Twitter bot. Automatically follows users and likes, retweets & comments on posts
-*   [diwasatreya/Music-Bot-v2](https://github.com/diwasatreya/Music-Bot-v2) - Music Bot v2 which uses djs v13 & play best quality of music ( supports any url's ) + lavalink & slash command
-*   [cipherwiki/InstaBot](https://github.com/cipherwiki/InstaBot) - Instabot is a type of software or tool that is designed to automate interactions on the social media platform Instagram. One specific function of an Instabot is the ability to auto-comment on posts that use certain hashtags.
-*   [JueK3y/Instagram-automated-commenting](https://github.com/JueK3y/Instagram-automated-commenting) - 〽️ This is an software (build with electron) that automatically comments on Instagram. Read the EULA for more information.
-*   [burlesco/burlesco](https://github.com/burlesco/burlesco) - Leia notícias sem ser assinante, burle o paywall (WebExtension)
-*   [itsmishra19/discord-music](https://github.com/itsmishra19/discord-music) - An open-source discord music bot written in javascript
-*   [BestGamersH/Multipurpose-Discord-Bot](https://github.com/BestGamersH/Multipurpose-Discord-Bot) - The bot that has everything! - Leveling • Music • Memes • Moderation • nsfw • Logging • Tickets • Reaction Roles • Fun • Anime • Applications • Much More
-*   [lreiner/Whatsapp-Message-Spammer](https://github.com/lreiner/Whatsapp-Message-Spammer) - This Script spams as many Messages as you want in a Chat. Tampermonkey Executable to inject Extensions to Whatsapp Web. Free to use for everyone. 📩
-*   [Geczy/tinder-autopilot](https://github.com/Geczy/tinder-autopilot) - Don't waste any more time doing manual tasks on Tinder. Autopilot will do it for you.
-*   [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀
-*   [andrepolischuk/thomas](https://github.com/andrepolischuk/thomas) - Simple pomodoro timer
-*   [Chase000/TherapyGo-project](https://github.com/Chase000/TherapyGo-project) -
-*   [Samantha2204/TherapyGo-Frontend](https://github.com/Samantha2204/TherapyGo-Frontend) - Frontend repo of a full stack system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointments through the website easily and keep track of their activities from the user platform.
-*   [Samantha2204/TherapyGo-Backend](https://github.com/Samantha2204/TherapyGo-Backend) - Backend repo of a full stack system for small massage shop's owner/receptionist to manage their appointments and staff roster. Also, their clients can book appointments through the website easily and keep track of their activities from the user platform.
-*   [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
-*   [jayremnt/facebook-scripts-dom-manipulation](https://github.com/jayremnt/facebook-scripts-dom-manipulation) - An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.
-*   [Androz2091/discord-giveaways-bot](https://github.com/Androz2091/discord-giveaways-bot) - 🎁Giveways Bot using the discord-giveaways package
-*   [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
-*   [zehfernandes/get-vercel-source-code](https://github.com/zehfernandes/get-vercel-source-code) - Get source code hosted at vercel
-*   [lucasbento/rn-update-deprecated-modules](https://github.com/lucasbento/rn-update-deprecated-modules) - Codemod to update import declarations as per react-native > 0.59.x deprecations.
-*   [codersrank-org/libraries](https://github.com/codersrank-org/libraries) - This repository contains a list of supported libraries, imports and technologies they belong to
-*   [xrkffgg/list-all-followers-and-following](https://github.com/xrkffgg/list-all-followers-and-following) - 😳 Easy view and filter all follows and following. Auto update by GitHub Action.
-*   [lucasbento/auto-close-issues](https://github.com/lucasbento/auto-close-issues) - Automatically close issues that don't follow the issue template.
-*   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-*   [filipedeschamps/video-maker](https://github.com/filipedeschamps/video-maker) - Projeto open source para fazer vídeos automatizados
-*   [mifi/instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
-*   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
 ## SCSS
 
@@ -256,7 +257,6 @@
 *   [lauripiispanen/github-top](https://github.com/lauripiispanen/github-top) - A list of the most active GitHub users
 *   [typicode/ghwn](https://github.com/typicode/ghwn) - Get desktop notifications for new issues, comments, stars... (no installation required)
 *   [technext/100-template-list](https://github.com/technext/100-template-list) -
-*   [iuricode/recursos-gratuitos](https://github.com/iuricode/recursos-gratuitos) - Coleção com links para desenvolvimento
 
 ## C
 
