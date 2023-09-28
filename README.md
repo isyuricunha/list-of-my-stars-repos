@@ -1,8 +1,8 @@
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [C++](#c)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [C#](#c-1)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -32,39 +32,9 @@
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
 
-## C++
-
-*   [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
-
-## miscellaneous
-
-*   [ZiaUrR3hman/LinkedSocialToolkit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit) - With Linked Social Toolkit \[LST] you can like posts & comments, send birthday wishes, work anniversary wishes & new job wishes, send messages to connections, auto respond to messages, connect, remove, follow, view & endorse connections, withdraw & accept invitations, get connections information...
-*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
-*   [guilhermemm-dev/links](https://github.com/guilhermemm-dev/links) - Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).
-*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
-*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
-*   [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
-*   [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-*   [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
-*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
-*   [Windows-Dev/Windows11-Bypass](https://github.com/Windows-Dev/Windows11-Bypass) - Windows 11 for Everyone ( Bypass TPM/SoC checks and install win11 safely on your unsupported device)
-*   [notHyperNexus/W11-Bypass](https://github.com/notHyperNexus/W11-Bypass) - This repository allowed you Bypass Windows 11 repuirements!
-*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
-*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
-*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
-*   [KwilzOne/wolflauncher](https://github.com/KwilzOne/wolflauncher) -
-*   [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
-*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
-*   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
-
 ## JavaScript
 
+*   [duckduckgo/duckduckgo-privacy-extension](https://github.com/duckduckgo/duckduckgo-privacy-extension) - DuckDuckGo Privacy Essentials browser extension for Firefox, Chrome.
 *   [vasani-arpit/Social-Media-Automation](https://github.com/vasani-arpit/Social-Media-Automation) - Automate social media because you don't have to be active on all of them😉. Best way to be active on all social media without actually being active on them. 😃
 *   [ayastreb/money-tracker](https://github.com/ayastreb/money-tracker) - :moneybag: Personal finances tracking web app
 *   [gayanvoice/top-github-users-action](https://github.com/gayanvoice/top-github-users-action) - Check your ranking in GitHub
@@ -113,6 +83,37 @@
 *   [mifi/instauto](https://github.com/mifi/instauto) -  Instagram bot / automation library written in Javascript for Node.js
 *   [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 
+## C++
+
+*   [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
+
+## miscellaneous
+
+*   [ZiaUrR3hman/LinkedSocialToolkit](https://github.com/ZiaUrR3hman/LinkedSocialToolkit) - With Linked Social Toolkit \[LST] you can like posts & comments, send birthday wishes, work anniversary wishes & new job wishes, send messages to connections, auto respond to messages, connect, remove, follow, view & endorse connections, withdraw & accept invitations, get connections information...
+*   [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - The source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
+*   [guilhermemm-dev/links](https://github.com/guilhermemm-dev/links) - Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).
+*   [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+*   [badges/awesome-badges](https://github.com/badges/awesome-badges) - A curated collection of awesome things related to status badges
+*   [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
+*   [pinceladasdaweb/Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+*   [AdguardTeam/AdguardForWindows](https://github.com/AdguardTeam/AdguardForWindows) - AdGuard for Windows open bug tracker
+*   [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
+*   [Windows-Dev/Windows11-Bypass](https://github.com/Windows-Dev/Windows11-Bypass) - Windows 11 for Everyone ( Bypass TPM/SoC checks and install win11 safely on your unsupported device)
+*   [notHyperNexus/W11-Bypass](https://github.com/notHyperNexus/W11-Bypass) - This repository allowed you Bypass Windows 11 repuirements!
+*   [notracking/hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage
+*   [lightswitch05/hosts](https://github.com/lightswitch05/hosts) - Hostfile blocklist for ads and tracking, updated regularly
+*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
+*   [KwilzOne/wolflauncher](https://github.com/KwilzOne/wolflauncher) -
+*   [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
+*   [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+*   [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
+*   [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
+*   [iuricode/iuricode](https://github.com/iuricode/iuricode) - Readme de perfil
+
 ## C\#
 
 *   [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
@@ -151,7 +152,6 @@
 *   [Azure/azure-sql-database-samples](https://github.com/Azure/azure-sql-database-samples) - Azure SQL Database Samples and Reference Implementation Repository
 *   [ungoogled-software/ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Google Chromium, sans integration with Google
 *   [Correia-jpv/github-follow-bot](https://github.com/Correia-jpv/github-follow-bot) - 🤖 Automated follow/unfollow bot for GitHub. Follow from multiple sources. Choose which users to unfollow. Custom options to control bot speed and maximum actions.
-*   [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## TypeScript
 
