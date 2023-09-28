@@ -1,12 +1,12 @@
 ## Table of Contents
 
+*   [C++](#c)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [C#](#c)
+*   [C#](#c-1)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Java](#java)
-*   [C++](#c-1)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Ruby](#ruby)
 *   [Meson](#meson)
@@ -31,6 +31,13 @@
 *   [PowerShell](#powershell)
 *   [CoffeeScript](#coffeescript)
 *   [Swift](#swift)
+
+## C++
+
+*   [AntiMicroX/antimicrox](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
+*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
+*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
 
 ## miscellaneous
 
@@ -188,12 +195,6 @@
 *   [DraSouls/Necesse-MultiTools](https://github.com/DraSouls/Necesse-MultiTools) - Adds the Planner and tiered Pivelaxes to aid in building and mining.
 *   [dianchia/DefenseTower](https://github.com/dianchia/DefenseTower) - A few type of defense tower for Necesse
 
-## C++
-
-*   [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-*   [oxen-io/lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet.
-*   [kenjinote/cmdchat](https://github.com/kenjinote/cmdchat) - コマンド プロンプト (チャット風)
-
 ## Adblock Filter List
 
 *   [AdguardTeam/AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) - AdGuard Content Blocking Filters
@@ -202,7 +203,6 @@
 
 *   [github/brasil](https://github.com/github/brasil) - Recursos e informações do GitHub para a comunidade de desenvolvedores no Brasil.
 *   [zammad/zammad](https://github.com/zammad/zammad) - Zammad is a web based open source helpdesk/customer support system
-*   [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 
 ## Meson
 
